@@ -1,0 +1,3327 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{iea_renewables2023}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
+           family={{International Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEA}%
+      }
+      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Annual renewable electricity capacity additions reached nearly 507 GW in 2023, with solar PV accounting for ~75 \% and solar+wind comprising ~96 \% of new capacity}
+      \field{title}{Renewables 2023 – Analysis and forecast to 2028}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.iea.org/reports/renewables-2023
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/reports/renewables-2023
+      \endverb
+    \endentry
+    \entry{iea_renewables2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
+           family={{International Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEA}%
+      }
+      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Global renewable capacity expected to expand by ~5500 GW between 2024–2030, with solar PV providing around 80 \% of growth}
+      \field{title}{Renewables 2024 – Analysis and forecast to 2030}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.iea.org/reports/renewables-2024
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/reports/renewables-2024
+      \endverb
+    \endentry
+    \entry{bommes2021computer}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=6d494a82b953d3a397d30ac3b4de30fd}{%
+           family={Bommes},
+           familyi={B\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0744150ee483f1b098006034f4a76e6e}{%
+           family={Pickel},
+           familyi={P\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d3beebc0176573d3d510f3231efdb34b}{%
+           family={Buerhop-Lutz},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d5edda59ed02bb289b095332f8f76f43}{%
+           family={Hauch},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c3fa2f956c014ee198085dea9d365664}{%
+           family={Brabec},
+           familyi={B\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=52e358e588d663029f2c7672a7702bc0}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ca0db69c99ea1afc0bd9101df2f560b}
+      \strng{fullhash}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \strng{fullhashraw}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \strng{bibnamehash}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \strng{authorbibnamehash}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \strng{authornamehash}{1ca0db69c99ea1afc0bd9101df2f560b}
+      \strng{authorfullhash}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \strng{authorfullhashraw}{85c962f6a90ca3a3ae01f2be0b91ddad}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in Photovoltaics: Research and Applications}
+      \field{number}{12}
+      \field{title}{Computer vision tool for detection, mapping, and fault classification of photovoltaics modules in aerial IR videos}
+      \field{volume}{29}
+      \field{year}{2021}
+      \field{pages}{1236\bibrangedash 1251}
+      \range{pages}{16}
+    \endentry
+    \entry{Kerekes2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c019473fdeaf3a54929310b27a8f419c}{%
+           family={Kerekes},
+           familyi={K\bibinitperiod},
+           given={Tamas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d7907ef19e1dd161f4a22046d0e0a3ec}{%
+           family={Séra},
+           familyi={S\bibinitperiod},
+           given={Dezso},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{fullhash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{fullhashraw}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{bibnamehash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{authorbibnamehash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{authornamehash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{authorfullhash}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \strng{authorfullhashraw}{19a8663d21ca3ce7b593fbc8bf1bceef}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{16}
+      \field{title}{Short Survey of Architectures of Photovoltaic Arrays for Solar Power Generation Systems}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{4917}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/en14164917
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1996-1073/14/16/4917
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1996-1073/14/16/4917
+      \endverb
+    \endentry
+    \entry{abb2019pvplants}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=e2fc44b8a8a1eb5011bd83a6248fee21}{%
+           family={{ABB Limited}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {ABB Limited}%
+      }
+      \strng{namehash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{fullhash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{fullhashraw}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{bibnamehash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{authorbibnamehash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{authornamehash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{authorfullhash}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \strng{authorfullhashraw}{e2fc44b8a8a1eb5011bd83a6248fee21}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{Photovoltaic plants: Cutting edge technology. From sun to socket}
+      \field{type}{Technical Report}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://search.abb.com/library/Download.aspx?DocumentID=9AKK107492A3277&LanguageCode=en&DocumentPartId&Action=Launch
+      \endverb
+      \verb{url}
+      \verb https://search.abb.com/library/Download.aspx?DocumentID=9AKK107492A3277&LanguageCode=en&DocumentPartId&Action=Launch
+      \endverb
+    \endentry
+    \entry{green1982solar}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=a8f01dbebeccab6ae25bbcccaf0e8266}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice-Hall}%
+      }
+      \strng{namehash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{fullhash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{fullhashraw}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{bibnamehash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{authorbibnamehash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{authornamehash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{authorfullhash}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \strng{authorfullhashraw}{a8f01dbebeccab6ae25bbcccaf0e8266}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solar Cells: Operating Principles, Technology, and System Applications}
+      \field{year}{1982}
+    \endentry
+    \entry{fraunhofer2020pv}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9107d109a72a4313df42236a61aa2ff4}{%
+           family={Solar\bibnamedelimb Energy\bibnamedelimb Systems\bibnamedelima ISE},
+           familyi={S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Fraunhofer\bibnamedelima Institute},
+           giveni={F\bibinitperiod\bibinitdelim I\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{fullhash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{fullhashraw}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{bibnamehash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{authorbibnamehash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{authornamehash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{authorfullhash}{9107d109a72a4313df42236a61aa2ff4}
+      \strng{authorfullhashraw}{9107d109a72a4313df42236a61aa2ff4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available: \url{https://www.ise.fraunhofer.de/en/publications/studies/photovoltaics-report.html}}
+      \field{title}{Photovoltaics Report}
+      \field{year}{2020}
+    \endentry
+    \entry{iea_pvps_review_2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b165d1c26f2f7cbc7db92f770f572322}{%
+           family={(IEA-PVPS)},
+           familyi={(\bibinithyphendelim P\bibinitperiod},
+           given={International\bibnamedelimb Energy\bibnamedelimb Agency\bibnamedelimb Photovoltaic\bibnamedelimb Power\bibnamedelimb Systems\bibnamedelima Programme},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{fullhash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{fullhashraw}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{bibnamehash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{authorbibnamehash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{authornamehash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{authorfullhash}{b165d1c26f2f7cbc7db92f770f572322}
+      \strng{authorfullhashraw}{b165d1c26f2f7cbc7db92f770f572322}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available: \url{https://iea-pvps.org/key-topics/review-on-ir-and-el-imaging-for-pv-field-applications/}}
+      \field{title}{Review on IR and EL Imaging for PV Field Applications}
+      \field{year}{2020}
+    \endentry
+    \entry{esesolar_solarfarms_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=42ba016f10150bb887f6f68474171ac2}{%
+           family={{ESE Solar LTD}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{fullhash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{fullhashraw}{42ba016f10150bb887f6f68474171ac2}
+      \strng{bibnamehash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{authorbibnamehash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{authornamehash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{authorfullhash}{42ba016f10150bb887f6f68474171ac2}
+      \strng{authorfullhashraw}{42ba016f10150bb887f6f68474171ac2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Published 25 January 2024. Accessed 13 July 2025.}
+      \field{title}{Solar Farms – The Ultimate Guide}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://esesolar.co.uk/solar-farms-the-ultimate-guide/
+      \endverb
+      \verb{url}
+      \verb https://esesolar.co.uk/solar-farms-the-ultimate-guide/
+      \endverb
+    \endentry
+    \entry{10028831}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=57b77361d212facd933543cd74b857bd}{%
+           family={Ramzan},
+           familyi={R\bibinitperiod},
+           given={Uzma},
+           giveni={U\bibinitperiod}}}%
+        {{hash=dc9757ef58c1b6475db48bb10b3a6eef}{%
+           family={Jamil},
+           familyi={J\bibinitperiod},
+           given={Majid},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{fullhash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{fullhashraw}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{bibnamehash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{authorbibnamehash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{authornamehash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{authorfullhash}{e9b40acf07dc577941c2d52a0cdd0526}
+      \strng{authorfullhashraw}{e9b40acf07dc577941c2d52a0cdd0526}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE Silchar Subsection Conference (SILCON)}
+      \field{title}{Comparative Analysis of Floating Solar Photovoltaic and Land Based Photovoltaic Plant}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/SILCON55242.2022.10028831
+      \endverb
+      \keyw{Photovoltaic systems;Thermal expansion;Costs;Cooling;Profitability;Lakes;Reservoirs;floating photovoltaic;levelized cost of energy;payback period;economic comparison;feasibility analysis}
+    \endentry
+    \entry{KOONDHAR2024101449}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=188a26a36b261869ed17bd8f99637b2c}{%
+           family={Koondhar},
+           familyi={K\bibinitperiod},
+           given={Mohsin\bibnamedelima Ali},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b0271566a4837a876706a3f44e667922}{%
+           family={Albasha},
+           familyi={A\bibinitperiod},
+           given={Lutfi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e511feafd2ae94c84717b8d62f92bd68}{%
+           family={Mahariq},
+           familyi={M\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+        {{hash=d1d74dc14fb31b8a7c2a6756b6fc5180}{%
+           family={Graba},
+           familyi={G\bibinitperiod},
+           given={Besma\bibnamedelima Bechir},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8565251c59ad29ce9975f72eb0282183}{%
+           family={Touti},
+           familyi={T\bibinitperiod},
+           given={Ezzeddine},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{77bde90a5c8b0c365282eb31653a0e81}
+      \strng{fullhash}{506fc5ff02857b39682559dea9050d38}
+      \strng{fullhashraw}{506fc5ff02857b39682559dea9050d38}
+      \strng{bibnamehash}{506fc5ff02857b39682559dea9050d38}
+      \strng{authorbibnamehash}{506fc5ff02857b39682559dea9050d38}
+      \strng{authornamehash}{77bde90a5c8b0c365282eb31653a0e81}
+      \strng{authorfullhash}{506fc5ff02857b39682559dea9050d38}
+      \strng{authorfullhashraw}{506fc5ff02857b39682559dea9050d38}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Energy scarcity in various regions worldwide not only adversely affects people's quality of life but also hinders overall development. Pakistan is among the nations grappling with energy shortages, with high consumption and limited generation, resulting in a substantial energy shortfall of 2500 MW. Floating photovoltaic (FPV) systems present an attractive solution for harnessing solar energy, particularly where land availability is constrained. These systems offer benefits such as conserving water and land while delivering higher power output compared to conventional terrestrial PV systems. While the advantages of FPV systems are generally recognized, research on their specific characteristics remains limited. This paper aims to address this gap by providing a comprehensive review of FPV technology and its potential applications, particularly in Pakistan. By comparing ground-mounted and FPV systems, the study explores the economic, technological, and environmental implications of FPV adoption in regions with similar geographical profiles. The analysis highlights not only the cooling impact of water, which enhances the efficiency of FPV systems, but also other key aspects such as cost-effectiveness, site preparation, and environmental impact. Output power of FPV and land based obtained are 390 kW and 370 kW at irradiances of 180kW/m2and 170 kW/m2 at temperature from 30 to35°C respectively. The findings demonstrate the viability of FPV systems and emphasize that by leveraging the characteristics of water temperature, it becomes feasible to more accurately predict the electricity generation potential of FPV systems. This synthesis offers new insights and underscores the potential for FPV adoption in areas facing similar energy challenges.}
+      \field{issn}{2211-467X}
+      \field{journaltitle}{Energy Strategy Reviews}
+      \field{title}{Reviewing floating photovoltaic (FPV) technology for solar energy generation}
+      \field{volume}{54}
+      \field{year}{2024}
+      \field{pages}{101449}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.esr.2024.101449
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2211467X24001561
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2211467X24001561
+      \endverb
+      \keyw{Photovoltaic,Floating photovoltaic,Renewable energy,Water temperature,Cooling}
+    \endentry
+    \entry{karppinen2021review}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=08c20296fe124e9fd86f0bb29267ae42}{%
+           family={Karppinen},
+           familyi={K\bibinitperiod},
+           given={Ville},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5e8f3d34fa7fb54b42ec2a4879318e5a}{%
+           family={Peltonen},
+           familyi={P\bibinitperiod},
+           given={Jouko},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4bc2ae474f38f4a2d7674750fbd12abf}{%
+           family={Leppäniemi},
+           familyi={L\bibinitperiod},
+           given={Marja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{1317835ad03cbdc43fe5a2e2cb5ed136}
+      \strng{fullhash}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \strng{fullhashraw}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \strng{bibnamehash}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \strng{authorbibnamehash}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \strng{authornamehash}{1317835ad03cbdc43fe5a2e2cb5ed136}
+      \strng{authorfullhash}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \strng{authorfullhashraw}{46c39f2e2bae8354b55d72c25e55ea0c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{14}
+      \field{title}{A Review of the Degradation of Photovoltaic Modules for Lifetime Estimation}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{4278}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/en14144278
+      \endverb
+    \endentry
+    \entry{IEA-PVPS-T13-30-2025}{report}{}{}
+      \name{author}{18}{}{%
+        {{hash=9b6918a54f2dbff9431bbe805f03b3a8}{%
+           family={Köntges},
+           familyi={K\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=556d64c0e68b10dc64d5c5d3650130f9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+        {{hash=24b5d3ee52dd49c4e60a5ba80a04bbcf}{%
+           family={Virtuani},
+           familyi={V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9672fea901e0b8184f56c8acdfa248b0}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Gabriele\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f64f3630062715af0bf47c77731d0bf4}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=abf4811cdc598c6de7b529e5bcb76baf}{%
+           family={Oreski},
+           familyi={O\bibinitperiod},
+           given={Gernot},
+           giveni={G\bibinitperiod}}}%
+        {{hash=44e7a6668216f63b5190a2e9f3ed05ff}{%
+           family={Hacke},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=610c1468df631e5052f8157273872145}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0f7ef86937c8513c17b1962a728be237}{%
+           family={Bruckman},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7a3fbee5e24c49de5c3419bf050d584a}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b3b5ba010e1c0b9a985c27e42c66b0b1}{%
+           family={Barrit},
+           familyi={B\bibinitperiod},
+           given={Dounya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dca760f435abf9fb0cf4e0e53aba5d62}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Mirra},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d39e7e7d386e49d66e0ae944140895b4}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Ina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=eb6c9c27d215bcf139e5ba8aa28f9f84}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Kristopher\bibnamedelima O.},
+           giveni={K\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=956f4c8882c3bc26b4ac46decca88062}{%
+           family={Cattaneo},
+           familyi={C\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=571f4408cb50243fc226d192620d5183}{%
+           family={Hoex},
+           familyi={H\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8464554291c2e760a68cbe59bde29868}{%
+           family={Hameiri},
+           familyi={H\bibinitperiod},
+           given={Ziv},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d50a41c923ce5746ca8346cd89d69e18}{%
+           family={Özkalay},
+           familyi={Ö\bibinitperiod},
+           given={Ebrar},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Energy Agency Photovoltaic Power Systems Programme (IEA PVPS)}%
+      }
+      \strng{namehash}{fe7404caa20832060ea91fa8219c76cd}
+      \strng{fullhash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{fullhashraw}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{bibnamehash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authorbibnamehash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authornamehash}{fe7404caa20832060ea91fa8219c76cd}
+      \strng{authorfullhash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authorfullhashraw}{d7daf2d817dadc7deb531ecbe280694b}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-907281-71-0}
+      \field{month}{2}
+      \field{number}{IEA-PVPS T13-30:2025}
+      \field{title}{Degradation and Failure Modes in New Photovoltaic Cell and Module Technologies}
+      \field{type}{IEA PVPS Task 13 Report}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://iea-pvps.org/wp-content/uploads/2025/02/IEA-PVPS-T13-30-2025-REPORT-Degradation-and-Failure.pdf
+      \endverb
+      \verb{url}
+      \verb https://iea-pvps.org/wp-content/uploads/2025/02/IEA-PVPS-T13-30-2025-REPORT-Degradation-and-Failure.pdf
+      \endverb
+    \endentry
+    \entry{Brooks2016}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2c767e8bbc8744fd78dc9c41feb4b45c}{%
+           family={Brooks},
+           familyi={B\bibinitperiod},
+           given={Fredrick},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Infrared Training Center}%
+      }
+      \strng{namehash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{fullhash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{fullhashraw}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{bibnamehash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{authorbibnamehash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{authornamehash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{authorfullhash}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \strng{authorfullhashraw}{2c767e8bbc8744fd78dc9c41feb4b45c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-12}
+      \field{title}{Identifying Issues On Installed Photovoltaic Systems Using Thermal Imagery}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.infraredtraining.com/en-US/home/resources/blog/identifying-issues-on-installed-photovoltaic-systems--using-thermal-imagery/
+      \endverb
+      \verb{url}
+      \verb https://www.infraredtraining.com/en-US/home/resources/blog/identifying-issues-on-installed-photovoltaic-systems--using-thermal-imagery/
+      \endverb
+    \endentry
+    \entry{Sun2014ShadingPV}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=193b698e48f4d17f6fe7ea91175dd24d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yunlin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b8f0b2392cca5e00b495173658ca602a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Siming},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a0cfec1b71c1a029a565b54e5e154e08}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Liying},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7df232584c28f3973c03893baf363c80}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Ruijiang},
+           giveni={R\bibinitperiod}}}%
+        {{hash=39d088a3bf8c7a92bacab6c0e8495a84}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi Publishing Corporation}%
+      }
+      \strng{namehash}{dadc6b7a43e412070f2bef4c2eab0736}
+      \strng{fullhash}{d0890de564fe2937bb32592d34137f8c}
+      \strng{fullhashraw}{d0890de564fe2937bb32592d34137f8c}
+      \strng{bibnamehash}{d0890de564fe2937bb32592d34137f8c}
+      \strng{authorbibnamehash}{d0890de564fe2937bb32592d34137f8c}
+      \strng{authornamehash}{dadc6b7a43e412070f2bef4c2eab0736}
+      \strng{authorfullhash}{d0890de564fe2937bb32592d34137f8c}
+      \strng{authorfullhashraw}{d0890de564fe2937bb32592d34137f8c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Photoenergy}
+      \field{title}{Investigating the Impact of Shading Effect on the Characteristics of a Large-Scale Grid-Connected PV Power Plant in Northwest China}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1155/2014/763106
+      \endverb
+    \endentry
+    \entry{raptormaps_dataset}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=895a9503bb480bb7618f3e730fd04005}{%
+           family={Millendorf},
+           familyi={M\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=272d579b96a7071ca5d3a22795c39654}{%
+           family={Obropta},
+           familyi={O\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=10eb43ee4eb797bae70c0046362187cc}{%
+           family={Vadhavkar},
+           familyi={V\bibinitperiod},
+           given={Nikhil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Raptor Maps Inc.}%
+      }
+      \strng{namehash}{c4876e5f4f62da2742e0904b1a05e89d}
+      \strng{fullhash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{fullhashraw}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{bibnamehash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authorbibnamehash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authornamehash}{c4876e5f4f62da2742e0904b1a05e89d}
+      \strng{authorfullhash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authorfullhashraw}{c1654d5bea4043024f59fe687bc5bd70}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/RaptorMaps/InfraredSolarModules}}
+      \field{note}{Accessed: 2025-07-11}
+      \field{title}{Infrared Solar Modules Dataset for Anomaly Detection}
+      \field{year}{2020}
+    \endentry
+    \entry{IEA_PVPS_T13_30_2025}{report}{}{}
+      \name{author}{18}{}{%
+        {{hash=9b6918a54f2dbff9431bbe805f03b3a8}{%
+           family={Köntges},
+           familyi={K\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=556d64c0e68b10dc64d5c5d3650130f9}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+        {{hash=24b5d3ee52dd49c4e60a5ba80a04bbcf}{%
+           family={Virtuani},
+           familyi={V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9672fea901e0b8184f56c8acdfa248b0}{%
+           family={Eder},
+           familyi={E\bibinitperiod},
+           given={Gabriele\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f64f3630062715af0bf47c77731d0bf4}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=abf4811cdc598c6de7b529e5bcb76baf}{%
+           family={Oreski},
+           familyi={O\bibinitperiod},
+           given={Gernot},
+           giveni={G\bibinitperiod}}}%
+        {{hash=44e7a6668216f63b5190a2e9f3ed05ff}{%
+           family={Hacke},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=610c1468df631e5052f8157273872145}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0f7ef86937c8513c17b1962a728be237}{%
+           family={Bruckman},
+           familyi={B\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7a3fbee5e24c49de5c3419bf050d584a}{%
+           family={Gebhardt},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b3b5ba010e1c0b9a985c27e42c66b0b1}{%
+           family={Barrit},
+           familyi={B\bibinitperiod},
+           given={Dounya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dca760f435abf9fb0cf4e0e53aba5d62}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Mirra},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d39e7e7d386e49d66e0ae944140895b4}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Ina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=eb6c9c27d215bcf139e5ba8aa28f9f84}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Kristopher\bibnamedelima O.},
+           giveni={K\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=956f4c8882c3bc26b4ac46decca88062}{%
+           family={Cattaneo},
+           familyi={C\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=571f4408cb50243fc226d192620d5183}{%
+           family={Hoex},
+           familyi={H\bibinitperiod},
+           given={Bram},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8464554291c2e760a68cbe59bde29868}{%
+           family={Hameiri},
+           familyi={H\bibinitperiod},
+           given={Ziv},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d50a41c923ce5746ca8346cd89d69e18}{%
+           family={Özkalay},
+           familyi={Ö\bibinitperiod},
+           given={Ebrar},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Energy Agency Photovoltaic Power Systems Programme (IEA‑PVPS), Task 13}%
+      }
+      \strng{namehash}{fe7404caa20832060ea91fa8219c76cd}
+      \strng{fullhash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{fullhashraw}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{bibnamehash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authorbibnamehash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authornamehash}{fe7404caa20832060ea91fa8219c76cd}
+      \strng{authorfullhash}{d7daf2d817dadc7deb531ecbe280694b}
+      \strng{authorfullhashraw}{d7daf2d817dadc7deb531ecbe280694b}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{number}{T13‑30:2025}
+      \field{title}{Degradation and Failure Modes in New Photovoltaic Cell and Module Technologies}
+      \field{type}{Technical Report}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.69766/ATBD2730
+      \endverb
+      \verb{urlraw}
+      \verb https://iea-pvps.org/key-topics/degradation-failure-modes-new-cell-module-technologies/
+      \endverb
+      \verb{url}
+      \verb https://iea-pvps.org/key-topics/degradation-failure-modes-new-cell-module-technologies/
+      \endverb
+    \endentry
+    \entry{Dhimish2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2f18458006a94592165f1ddc7498e06a}{%
+           family={Dhimish},
+           familyi={D\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=737f2c99ec66ef4dbb316bb2bc4f763c}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Yihua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{550b2149c7101917e13298663a33fbb4}
+      \strng{fullhash}{550b2149c7101917e13298663a33fbb4}
+      \strng{fullhashraw}{550b2149c7101917e13298663a33fbb4}
+      \strng{bibnamehash}{550b2149c7101917e13298663a33fbb4}
+      \strng{authorbibnamehash}{550b2149c7101917e13298663a33fbb4}
+      \strng{authornamehash}{550b2149c7101917e13298663a33fbb4}
+      \strng{authorfullhash}{550b2149c7101917e13298663a33fbb4}
+      \strng{authorfullhashraw}{550b2149c7101917e13298663a33fbb4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Energy Research}
+      \field{title}{Rapid testing on the effect of cracks on solar cells output power performance and thermal operation}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{911945}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fenrg.2022.911945
+      \endverb
+    \endentry
+    \entry{Dhimish2023_UK_Solar_PV_defects}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2f18458006a94592165f1ddc7498e06a}{%
+           family={Dhimish},
+           familyi={D\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7b57a2b28f4425c8a75ed4462c0d4e76}{%
+           family={Badran},
+           familyi={B\bibinitperiod},
+           given={Ghadeer},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8346923453fec9d7141907000f99730a}
+      \strng{fullhash}{8346923453fec9d7141907000f99730a}
+      \strng{fullhashraw}{8346923453fec9d7141907000f99730a}
+      \strng{bibnamehash}{8346923453fec9d7141907000f99730a}
+      \strng{authorbibnamehash}{8346923453fec9d7141907000f99730a}
+      \strng{authornamehash}{8346923453fec9d7141907000f99730a}
+      \strng{authorfullhash}{8346923453fec9d7141907000f99730a}
+      \strng{authorfullhashraw}{8346923453fec9d7141907000f99730a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2397-2106}
+      \field{journaltitle}{npj Materials Degradation}
+      \field{title}{Investigating defects and annual degradation in UK solar PV installations through thermographic and electroluminescent surveys}
+      \field{volume}{7}
+      \field{year}{2023}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41529-023-00331-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41529-023-00331-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41529-023-00331-y
+      \endverb
+    \endentry
+    \entry{Dhimish2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2f18458006a94592165f1ddc7498e06a}{%
+           family={Dhimish},
+           familyi={D\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1d45526cd270e29aafc32f27af70cbab}{%
+           family={Tyrrell},
+           familyi={T\bibinitperiod},
+           given={Andy\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{fullhash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{fullhashraw}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{bibnamehash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{authorbibnamehash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{authornamehash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{authorfullhash}{69cbebac6031e07e4081c0e964ee89d1}
+      \strng{authorfullhashraw}{69cbebac6031e07e4081c0e964ee89d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{note}{Accepted Author Manuscript}
+      \field{title}{Photovoltaic Bypass Diode Fault Detection using Artificial Neural Networks}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://eprints.whiterose.ac.uk/id/eprint/196381/1/Accepted_Author_Manuscript.pdf
+      \endverb
+      \verb{url}
+      \verb https://eprints.whiterose.ac.uk/id/eprint/196381/1/Accepted_Author_Manuscript.pdf
+      \endverb
+    \endentry
+    \entry{IEA-PVPS2023}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=24ef43866b8de106f4c1fda7e6974629}{%
+           family={{IEA Photovoltaic Power Systems Programme (IEA-PVPS)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{fullhash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{fullhashraw}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{bibnamehash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{authorbibnamehash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{authornamehash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{authorfullhash}{24ef43866b8de106f4c1fda7e6974629}
+      \strng{authorfullhashraw}{24ef43866b8de106f4c1fda7e6974629}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\url{https://iea-pvps.org/key-topics/soiling-losses-impact-on-the-performance-of-photovoltaic-power-plants/}}
+      \field{note}{Accessed: 2025-07-16}
+      \field{title}{Soiling Losses – Impact on the Performance of Photovoltaic Power Plants}
+      \field{year}{2023}
+    \endentry
+    \entry{XU2024112198}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=fa4c0ce9947c3dff0bc63177fe97c32f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhengjie},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=92e14a8c19eb5a0c7c199c85db74f106}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9d368365ddcebb2ec581a0b92e240d32}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yingzuo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=68d4a6e087f6dfe738ef59c09683695c}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Eviatar},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c04997ece9b10f205f17ad2fedf2e1f8}
+      \strng{fullhash}{0981a2ee9f99035b4386e51d9b961463}
+      \strng{fullhashraw}{0981a2ee9f99035b4386e51d9b961463}
+      \strng{bibnamehash}{0981a2ee9f99035b4386e51d9b961463}
+      \strng{authorbibnamehash}{0981a2ee9f99035b4386e51d9b961463}
+      \strng{authornamehash}{c04997ece9b10f205f17ad2fedf2e1f8}
+      \strng{authorfullhash}{0981a2ee9f99035b4386e51d9b961463}
+      \strng{authorfullhashraw}{0981a2ee9f99035b4386e51d9b961463}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The rapid development of solar energy worldwide has attracted increasing attention due to its climatic and environmental impacts. Using MODIS data, we quantified the effects of solar farms (SFs) on albedo, vegetation (using enhanced vegetation index (EVI) as a proxy), and land surface temperature (LST) based on 116 large SFs across the world. The results show that the installation of SFs decreased the annual mean surface shortwave albedo by 0.016 ± 0.009 (mean ± 1 STD) and reduced the EVI by 0.015 ± 0.019 relative to the surrounding areas. SFs produced a strong cooling effect of −0.49 ± 0.43 K in the annual mean land surface temperature during the daytime and a weaker cooling effect of −0.21 ± 0.25 K during the nighttime. The greatest impacts on albedo and daytime LST were observed in barren land, followed by grassland and cropland, while the opposite order applied for vegetation impact. In terms of seasonal and latitudinal variations, the largest impact was observed at high latitudes in winter on albedo, at mid-latitudes in summer on vegetation, and at low latitudes in spring–summer transitions on daytime LST. Correlation analysis showed that the albedo and LST impacts were enhanced over large SFs with high capacity. The vegetation and LST impacts were both correlated with geographic and climatic factors and dependent on the type of SF (photovoltaic or concentrating solar power). Our global assessment provides observational evidence for the effects of SF construction on the environment and local climate, which can help the sustainable development of solar energy.}
+      \field{issn}{0038-092X}
+      \field{journaltitle}{Solar Energy}
+      \field{title}{A global assessment of the effects of solar farms on albedo, vegetation, and land surface temperature using remote sensing}
+      \field{volume}{268}
+      \field{year}{2024}
+      \field{pages}{112198}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.solener.2023.112198
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0038092X23008320
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0038092X23008320
+      \endverb
+      \keyw{Solar farms,Photovoltaic power plants,Concentrating solar power plants,Albedo,Vegetation,Land surface temperature}
+    \endentry
+    \entry{neo_messtechnik_pv_inspection_2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ca8f304e7f93c6a3d9887bf777b410e3}{%
+           family={{Neo Messtechnik}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{fullhash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{fullhashraw}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{bibnamehash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{authorbibnamehash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{authornamehash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{authorfullhash}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \strng{authorfullhashraw}{ca8f304e7f93c6a3d9887bf777b410e3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{Photovoltaic inspection methods}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.neo-messtechnik.com/en/methods-for-photovoltaic-inspection
+      \endverb
+      \verb{url}
+      \verb https://www.neo-messtechnik.com/en/methods-for-photovoltaic-inspection
+      \endverb
+    \endentry
+    \entry{micromachines_2025_elimaging}{article}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Micromachines}
+      \field{number}{4}
+      \field{title}{From Indoor to Daylight Electroluminescence Imaging for PV Module Diagnostics: A Comprehensive Review of Techniques, Challenges, and AI-Driven Advancements}
+      \field{volume}{16}
+      \field{year}{2025}
+      \field{pages}{437}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mi16040437
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2072-666X/16/4/437
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2072-666X/16/4/437
+      \endverb
+    \endentry
+    \entry{ratedpower_ivcurve_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=959c67fd3f6cfb7b9fa0914d97ac448a}{%
+           family={Vickerman},
+           familyi={V\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{fullhash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{fullhashraw}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{bibnamehash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{authorbibnamehash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{authornamehash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{authorfullhash}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \strng{authorfullhashraw}{959c67fd3f6cfb7b9fa0914d97ac448a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Reviewed by Enio Gjoni. Published by RatedPower. Updated 14 March 2024. Accessed 13 July 2025.}
+      \field{title}{How is an IV Curve used to maximize solar output?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ratedpower.com/glossary/iv-curve/
+      \endverb
+      \verb{url}
+      \verb https://ratedpower.com/glossary/iv-curve/
+      \endverb
+    \endentry
+    \entry{6828739}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=3682d662e0e5a7218b8f0ba8a057c298}{%
+           family={Quater},
+           familyi={Q\bibinitperiod},
+           given={Paolo\bibnamedelima Bellezza},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=5eac13c0e8458e04e3ef7ff0eaaac046}{%
+           family={Grimaccia},
+           familyi={G\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=13c9d358d811c1a18186a2140a772eed}{%
+           family={Leva},
+           familyi={L\bibinitperiod},
+           given={Sonia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9fb341ba8bb82d31b1c0c5ac8d9238d7}{%
+           family={Mussetta},
+           familyi={M\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b2045198d39f39f78d8f5fa2f2bbb646}{%
+           family={Aghaei},
+           familyi={A\bibinitperiod},
+           given={Mohammadreza},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0bc1258ee386feff9626256b1148667b}
+      \strng{fullhash}{bcdf95711a115062b0ae4bca07073a3b}
+      \strng{fullhashraw}{bcdf95711a115062b0ae4bca07073a3b}
+      \strng{bibnamehash}{bcdf95711a115062b0ae4bca07073a3b}
+      \strng{authorbibnamehash}{bcdf95711a115062b0ae4bca07073a3b}
+      \strng{authornamehash}{0bc1258ee386feff9626256b1148667b}
+      \strng{authorfullhash}{bcdf95711a115062b0ae4bca07073a3b}
+      \strng{authorfullhashraw}{bcdf95711a115062b0ae4bca07073a3b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Photovoltaics}
+      \field{number}{4}
+      \field{title}{Light Unmanned Aerial Vehicles (UAVs) for Cooperative Inspection of PV Plants}
+      \field{volume}{4}
+      \field{year}{2014}
+      \field{pages}{1107\bibrangedash 1113}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/JPHOTOV.2014.2323714
+      \endverb
+      \keyw{Monitoring;Cameras;Inspection;Photovoltaic cells;Unmanned aerial vehicles;Arrays;Visualization;Photovoltaic (PV) module;PV system control and monitoring;thermal imaging camera;unmanned aerial vehicle (UAV);Photovoltaic (PV) module;PV system control and monitoring;thermal imaging camera;unmanned aerial vehicle (UAV)}
+    \endentry
+    \entry{planck1991theory}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b70f9b82b1387fb65567789c543a0c4c}{%
+           family={Planck},
+           familyi={P\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dover Publications}%
+      }
+      \strng{namehash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{fullhash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{fullhashraw}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{bibnamehash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{authorbibnamehash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{authornamehash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{authorfullhash}{b70f9b82b1387fb65567789c543a0c4c}
+      \strng{authorfullhashraw}{b70f9b82b1387fb65567789c543a0c4c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{note}{Originally published in 1914}
+      \field{title}{The Theory of Heat Radiation}
+      \field{year}{1991}
+    \endentry
+    \entry{duffie2013solar}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ab71da69d43954bc7a29254df9a25c13}{%
+           family={Duffie},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7f756f672ac7aeb0f38c9a5c809f677d}{%
+           family={Beckman},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{fullhash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{fullhashraw}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{bibnamehash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{authorbibnamehash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{authornamehash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{authorfullhash}{2580306f13958531c6a7c5c1eea727b8}
+      \strng{authorfullhashraw}{2580306f13958531c6a7c5c1eea727b8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4th}
+      \field{journaltitle}{John Wiley \& Sons}
+      \field{title}{Solar Engineering of Thermal Processes}
+      \field{year}{2013}
+    \endentry
+    \entry{garcia2021infrared}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=9fc01284519d57b1baee139fcf7fabbd}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={María},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b2d7437902d069cf77628fa5fb50e79f}{%
+           family={Vilanova},
+           familyi={V\bibinitperiod},
+           given={Salvador},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7897a9b036d7dde1f21109f3a01672ee}{%
+           family={Martínez},
+           familyi={M\bibinitperiod},
+           given={Jose\bibnamedelima Antonio},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d0e98ced8e36023c6ab0d32b73dbf5a9}{%
+           family={Molés},
+           familyi={M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b9bb2944a94f51c113ca9327f6336e0b}
+      \strng{fullhash}{8f5199688d4275e64d1581125a7a2c83}
+      \strng{fullhashraw}{8f5199688d4275e64d1581125a7a2c83}
+      \strng{bibnamehash}{8f5199688d4275e64d1581125a7a2c83}
+      \strng{authorbibnamehash}{8f5199688d4275e64d1581125a7a2c83}
+      \strng{authornamehash}{b9bb2944a94f51c113ca9327f6336e0b}
+      \strng{authorfullhash}{8f5199688d4275e64d1581125a7a2c83}
+      \strng{authorfullhashraw}{8f5199688d4275e64d1581125a7a2c83}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Infrared thermography for fault detection and diagnosis in photovoltaic systems: A review}
+      \field{volume}{135}
+      \field{year}{2021}
+      \field{pages}{110120}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.rser.2020.110120
+      \endverb
+    \endentry
+    \entry{raptormaps2025mfactors}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=0d336f7be5611dd23f43ff0d5bb7796b}{%
+           family={{Raptor Maps, Inc.}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{fullhash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{fullhashraw}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{bibnamehash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{authorbibnamehash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{authornamehash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{authorfullhash}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \strng{authorfullhashraw}{0d336f7be5611dd23f43ff0d5bb7796b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online technical documentation}
+      \field{note}{Empirical power factor method for estimating DC power loss}
+      \field{title}{Calculating Impact of Anomalies \& Power Factors}
+      \field{year}{2025}
+    \endentry
+    \entry{ibm_machine_learning}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-15}
+      \field{title}{What Is Machine Learning (ML)?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ibm.com/think/topics/machine-learning
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/think/topics/machine-learning
+      \endverb
+    \endentry
+    \entry{berkeley_machine_learning}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2ca937cb3b6dc577ce637225d6072c99}{%
+           family={{UC Berkeley School of Information}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{fullhash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{fullhashraw}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{bibnamehash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{authorbibnamehash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{authornamehash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{authorfullhash}{2ca937cb3b6dc577ce637225d6072c99}
+      \strng{authorfullhashraw}{2ca937cb3b6dc577ce637225d6072c99}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-15}
+      \field{title}{What Is Machine Learning (ML)?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/
+      \endverb
+      \verb{url}
+      \verb https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/
+      \endverb
+    \endentry
+    \entry{geeksforgeeks_supervised_unsupervised_reinforcement_2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f1e069787ece74531d112559945c6871}{%
+           family={{GeeksforGeeks}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhashraw}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhashraw}{f1e069787ece74531d112559945c6871}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Last updated: 27 May, 2025. Accessed: 2025-07-15}
+      \field{title}{Supervised vs Unsupervised vs Reinforcement Learning}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/machine-learning/supervised-vs-reinforcement-vs-unsupervised/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/machine-learning/supervised-vs-reinforcement-vs-unsupervised/
+      \endverb
+    \endentry
+    \entry{bommes2021phd}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd20dc11197022a6bb1a6ca3785cbf36}{%
+           family={Bommes},
+           familyi={B\bibinitperiod},
+           given={Lukas},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Friedrich-Alexander-Universität Erlangen-Nürnberg}%
+      }
+      \strng{namehash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{fullhash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{fullhashraw}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{bibnamehash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{authorbibnamehash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{authornamehash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{authorfullhash}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \strng{authorfullhashraw}{bd20dc11197022a6bb1a6ca3785cbf36}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Vision Pipeline for the Automated Inspection of Photovoltaic Plants}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{dosovitskiy2021image}{article}{}{}
+      \name{author}{12}{}{%
+        {{hash=72308762399d6ab62bbd9391c64c7bfd}{%
+           family={Dosovitskiy},
+           familyi={D\bibinitperiod},
+           given={Alexey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=836254958eac09b30d45dd67a75ce4fa}{%
+           family={Beyer},
+           familyi={B\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6807e3c00242c6bf6a3179905040471b}{%
+           family={Kolesnikov},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b398fca6879fde89a032b8e7de2f26b5}{%
+           family={Weissenborn},
+           familyi={W\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=00b950307c7d096765bb6df00c7c5c3a}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Xiaohua},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1a47640139e63b9b5969c969dfe95def}{%
+           family={Unterthiner},
+           familyi={U\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=965baf6fa5686a42b1564330c5e11f2f}{%
+           family={Dehghani},
+           familyi={D\bibinitperiod},
+           given={Mostafa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=06829adce8713f0ace444279dcd7328f}{%
+           family={Minderer},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c95269b4a2e23e1e526be521c7ec6ad4}{%
+           family={Heigold},
+           familyi={H\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=450963f966620925cb8fecd32f7a6ee1}{%
+           family={Gelly},
+           familyi={G\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod}}}%
+        {{hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=493a532418540859dca92cf3b579de2a}{%
+           family={Houlsby},
+           familyi={H\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{fullhash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{fullhashraw}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{bibnamehash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authorbibnamehash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authornamehash}{d96316bc7578db680aba71d4226354c8}
+      \strng{authorfullhash}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \strng{authorfullhashraw}{b8c06eaeb698f61fc96ff3e5570552ec}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2010.11929}
+      \field{title}{An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2010.11929
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2010.11929
+      \endverb
+    \endentry
+    \entry{vaswani2017attention}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod}}}%
+        {{hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Łukasz},
+           giveni={Ł\bibinitperiod}}}%
+        {{hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{fullhashraw}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorbibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorfullhashraw}{cb26e47f6b8133865271fc8483132297}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Attention is All You Need}
+      \field{year}{2017}
+    \endentry
+    \entry{touvron2020deit}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a2a13fcd633ec70c55a7f3f4812afdcf}{%
+           family={Touvron},
+           familyi={T\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2cd60d757e4f4b8b7c6318fd2b1be3fe}{%
+           family={Cord},
+           familyi={C\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9190eb3cfa416148f38314a0698d592}{%
+           family={Douze},
+           familyi={D\bibinitperiod},
+           given={Matthijs},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e5dfae4582081d649e3a0d5342050016}{%
+           family={Massa},
+           familyi={M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2b9ab922e693d9237ad952a8030eee9d}{%
+           family={Sablayrolles},
+           familyi={S\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e2e5e19639743f0a4040c64d5a623202}{%
+           family={Jegou},
+           familyi={J\bibinitperiod},
+           given={Herve},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c237483431fea681283a37adbb23a59f}
+      \strng{fullhash}{2e662222c9e6cd11dffab1f4c161ae67}
+      \strng{fullhashraw}{2e662222c9e6cd11dffab1f4c161ae67}
+      \strng{bibnamehash}{2e662222c9e6cd11dffab1f4c161ae67}
+      \strng{authorbibnamehash}{2e662222c9e6cd11dffab1f4c161ae67}
+      \strng{authornamehash}{c237483431fea681283a37adbb23a59f}
+      \strng{authorfullhash}{2e662222c9e6cd11dffab1f4c161ae67}
+      \strng{authorfullhashraw}{2e662222c9e6cd11dffab1f4c161ae67}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2012.12877}
+      \field{title}{Training data-efficient image transformers \& distillation through attention}
+      \field{year}{2020}
+    \endentry
+    \entry{liu2022convnext}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=f7eda249dc15ce9f452344ec95bbcc67}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhuang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=326137dec73ca7ba28f804a81dd26892}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Hanzi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0616e6c3dae5ba93fee86f3d88778be4}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chao-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=bd2fff33d3a5433188d2662695e79eb5}{%
+           family={Feichtenhofer},
+           familyi={F\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=90180e1a30742e0d15328bfe637c2ef4}{%
+           family={Darrell},
+           familyi={D\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=843b6293b24d49cdfdcda48e1ccd7eb3}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Saining},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ab1c4b39b70b003d37ce0d046ed1c0e}
+      \strng{fullhash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{fullhashraw}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{bibnamehash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authorbibnamehash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authornamehash}{5ab1c4b39b70b003d37ce0d046ed1c0e}
+      \strng{authorfullhash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authorfullhashraw}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{A ConvNet for the 2020s}
+      \field{year}{2022}
+      \field{pages}{11976\bibrangedash 11986}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html
+      \endverb
+      \verb{url}
+      \verb https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html
+      \endverb
+    \endentry
+    \entry{huggingface_convnext}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=e0b6bb846c6a3e0649ce0e3cd9355df3}{%
+           family={{Hugging Face}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{fullhash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{fullhashraw}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{bibnamehash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{authorbibnamehash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{authornamehash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{authorfullhash}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \strng{authorfullhashraw}{e0b6bb846c6a3e0649ce0e3cd9355df3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://huggingface.co/docs/transformers/en/model_doc/convnext}}
+      \field{note}{Accessed: 2025-07-16}
+      \field{title}{ConvNeXT — Hugging Face Transformers Documentation}
+      \field{year}{2024}
+    \endentry
+    \entry{liu2022convnet}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=f7eda249dc15ce9f452344ec95bbcc67}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhuang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=326137dec73ca7ba28f804a81dd26892}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Hanzi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=0616e6c3dae5ba93fee86f3d88778be4}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chao-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=bd2fff33d3a5433188d2662695e79eb5}{%
+           family={Feichtenhofer},
+           familyi={F\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=90180e1a30742e0d15328bfe637c2ef4}{%
+           family={Darrell},
+           familyi={D\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=843b6293b24d49cdfdcda48e1ccd7eb3}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Saining},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ab1c4b39b70b003d37ce0d046ed1c0e}
+      \strng{fullhash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{fullhashraw}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{bibnamehash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authorbibnamehash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authornamehash}{5ab1c4b39b70b003d37ce0d046ed1c0e}
+      \strng{authorfullhash}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \strng{authorfullhashraw}{5be7ce23991a0ed9f2212f28b3cc3422}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}
+      \field{title}{A ConvNet for the 2020s}
+      \field{year}{2022}
+      \field{pages}{11976\bibrangedash 11986}
+      \range{pages}{11}
+    \endentry
+    \entry{howard2017mobilenets}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=0cedb03f907400fc304fdfaa1f7e2085}{%
+           family={Howard},
+           familyi={H\bibinitperiod},
+           given={Andrew\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d767e8e4d733bcf728bcdf2c193462f7}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Menglong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31960f03389184b7f052f5b197cc9fdf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6cbb997a11c6922af719c32863261918}{%
+           family={Kalenichenko},
+           familyi={K\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod}}}%
+        {{hash=47ad65c82b1de7d642988df185d7d8ea}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Weijun},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7dcb9c6d4d4251a7e32b502d03c9354b}{%
+           family={Weyand},
+           familyi={W\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8f221f2afb0b5a3d95b3e97101924922}{%
+           family={Andreetto},
+           familyi={A\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c707ec5b5997dc408a14a34a8380166c}{%
+           family={Adam},
+           familyi={A\bibinitperiod},
+           given={Hartwig},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{fullhash}{cffcf38c642164887a370768f5701b8e}
+      \strng{fullhashraw}{cffcf38c642164887a370768f5701b8e}
+      \strng{bibnamehash}{cffcf38c642164887a370768f5701b8e}
+      \strng{authorbibnamehash}{cffcf38c642164887a370768f5701b8e}
+      \strng{authornamehash}{e1fc6cab9b6009340e110518e53868c4}
+      \strng{authorfullhash}{cffcf38c642164887a370768f5701b8e}
+      \strng{authorfullhashraw}{cffcf38c642164887a370768f5701b8e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1704.04861}
+      \field{title}{Mobilenets: Efficient convolutional neural networks for mobile vision applications}
+      \field{year}{2017}
+    \endentry
+    \entry{kungfuai2023convnext}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=c544cafee45a5b0c9367e12f986e3c12}{%
+           family={KUNGFU.AI},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{fullhash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{fullhashraw}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{bibnamehash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{authorbibnamehash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{authornamehash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{authorfullhash}{c544cafee45a5b0c9367e12f986e3c12}
+      \strng{authorfullhashraw}{c544cafee45a5b0c9367e12f986e3c12}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{ConvNeXt: A Transformer-Inspired CNN Architecture}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.kungfu.ai/blog-post/convnext-a-transformer-inspired-cnn-architecture
+      \endverb
+      \verb{url}
+      \verb https://www.kungfu.ai/blog-post/convnext-a-transformer-inspired-cnn-architecture
+      \endverb
+    \endentry
+    \entry{hendrycks2016gaussian}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=86d0b4ecd6b6066d49e7aecde6e5e630}{%
+           family={Hendrycks},
+           familyi={H\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6bc70be3492f0800ecee6926d290244f}{%
+           family={Gimpel},
+           familyi={G\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{fullhash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{fullhashraw}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{bibnamehash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{authorbibnamehash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{authornamehash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{authorfullhash}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \strng{authorfullhashraw}{7d47b8f6df5cfe597280f14a9ffb6143}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1606.08415}
+      \field{title}{Gaussian error linear units (gelus)}
+      \field{year}{2016}
+    \endentry
+    \entry{zhang2023convnext}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=a41540d5972b60f35aa9034b3fe307c3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yiyi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9ae289dc1bd5d58cd9335fb7f6cda973}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Alu},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5baa2a09f65850f9a414f16eed018a05}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Danquan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4a1ef7c43bd790fc348e26c06dff7730}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xingtuo},
+           giveni={X\bibinitperiod}}}%
+        {{hash=dd43fc292763156fabf6847f7dc365b7}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ab4af0ef6b26e385c5aa1bb50ae53647}{%
+           family={Goh},
+           familyi={G\bibinitperiod},
+           given={Hui\bibnamedelima Hwang},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e23b4371834d053fff51f6208be219e5}
+      \strng{fullhash}{e9855487e991f2e443902334960b96da}
+      \strng{fullhashraw}{e9855487e991f2e443902334960b96da}
+      \strng{bibnamehash}{e9855487e991f2e443902334960b96da}
+      \strng{authorbibnamehash}{e9855487e991f2e443902334960b96da}
+      \strng{authornamehash}{e23b4371834d053fff51f6208be219e5}
+      \strng{authorfullhash}{e9855487e991f2e443902334960b96da}
+      \strng{authorfullhashraw}{e9855487e991f2e443902334960b96da}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Reports}
+      \field{note}{2022 International Conference on Frontiers of Energy and Environment Engineering, CFEEE, 16–18 December 2022, Beihai, China}
+      \field{title}{ConvNeXt-based anchor-free object detection model for infrared image of power equipment}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{1121\bibrangedash 1132}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.egyr.2023.04.145
+      \endverb
+    \endentry
+    \entry{sinap2024cnn}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=99a3197e44059eb6b3e543084727f904}{%
+           family={Sinap},
+           familyi={S\bibinitperiod},
+           given={Vahid},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ee639f1d36476a8c7e10db5b35b33077}{%
+           family={Kumtepe},
+           familyi={K\bibinitperiod},
+           given={Alihan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag London Ltd., part of Springer Nature}%
+      }
+      \strng{namehash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{fullhash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{fullhashraw}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{bibnamehash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{authorbibnamehash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{authornamehash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{authorfullhash}{6c3e47baa11e7ffcd762f237f7401a91}
+      \strng{authorfullhashraw}{6c3e47baa11e7ffcd762f237f7401a91}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neural Computing and Applications}
+      \field{number}{28}
+      \field{title}{CNN-based automatic detection of photovoltaic solar module anomalies in infrared images: a comparative study}
+      \field{volume}{36}
+      \field{year}{2024}
+      \field{pages}{17715\bibrangedash 17736}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00521-024-10322-y
+      \endverb
+    \endentry
+    \entry{pamungkas2023efficient}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=43e6697125dc516f37a2b820987f3610}{%
+           family={Pamungkas},
+           familyi={P\bibinitperiod},
+           given={Radityo\bibnamedelima Fajar},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=39b46a84051c4c02fa0e7fc175738db5}{%
+           family={Utama},
+           familyi={U\bibinitperiod},
+           given={Ida\bibnamedelimb Bagus\bibnamedelimb Krishna\bibnamedelima Yoga},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b376b45f2760d4af30541180013a435d}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Yeong\bibnamedelima Min},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{e6e96fa5ea815ee9c9e5f90516fbf114}
+      \strng{fullhash}{81678499e225aceac5f08d0964220430}
+      \strng{fullhashraw}{81678499e225aceac5f08d0964220430}
+      \strng{bibnamehash}{81678499e225aceac5f08d0964220430}
+      \strng{authorbibnamehash}{81678499e225aceac5f08d0964220430}
+      \strng{authornamehash}{e6e96fa5ea815ee9c9e5f90516fbf114}
+      \strng{authorfullhash}{81678499e225aceac5f08d0964220430}
+      \strng{authorfullhashraw}{81678499e225aceac5f08d0964220430}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{10}
+      \field{title}{A Novel Approach for Efficient Solar Panel Fault Classification Using Coupled UDenseNet}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{4918}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23104918
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/23/10/4918
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/23/10/4918
+      \endverb
+    \endentry
+    \entry{fonseca2021automatic}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=37013f84589b734f9021c5699f825bbe}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Ricardo\bibnamedelimb Henrique\bibnamedelima Fonseca},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=1125b9a77a755f7861df2f07161ba491}{%
+           family={Deus\bibnamedelima Júnior},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Getúlio\bibnamedelima Antero},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=73b460664032223f5933519f89330947}{%
+           family={Marra},
+           familyi={M\bibinitperiod},
+           given={Enes\bibnamedelima Gonçalves},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2a40832bb9d42fa6ca3363d33c89cea2}{%
+           family={Lemos},
+           familyi={L\bibinitperiod},
+           given={Rodrigo\bibnamedelima Pinto},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e695a2ac0b647ff264b8db92eb6ecfc}
+      \strng{fullhash}{e26a06b783c2390cef1578d5a6f1060b}
+      \strng{fullhashraw}{e26a06b783c2390cef1578d5a6f1060b}
+      \strng{bibnamehash}{e26a06b783c2390cef1578d5a6f1060b}
+      \strng{authorbibnamehash}{e26a06b783c2390cef1578d5a6f1060b}
+      \strng{authornamehash}{9e695a2ac0b647ff264b8db92eb6ecfc}
+      \strng{authorfullhash}{e26a06b783c2390cef1578d5a6f1060b}
+      \strng{authorfullhashraw}{e26a06b783c2390cef1578d5a6f1060b}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable Energy}
+      \field{title}{Automatic Fault Classification in Photovoltaic Modules Using Convolutional Neural Networks}
+      \field{volume}{179}
+      \field{year}{2021}
+      \field{pages}{502\bibrangedash 516}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.renene.2021.07.070
+      \endverb
+    \endentry
+    \entry{millendorf2020infrared}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=895a9503bb480bb7618f3e730fd04005}{%
+           family={Millendorf},
+           familyi={M\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=272d579b96a7071ca5d3a22795c39654}{%
+           family={Obropta},
+           familyi={O\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=10eb43ee4eb797bae70c0046362187cc}{%
+           family={Vadhavkar},
+           familyi={V\bibinitperiod},
+           given={Nikhil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4876e5f4f62da2742e0904b1a05e89d}
+      \strng{fullhash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{fullhashraw}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{bibnamehash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authorbibnamehash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authornamehash}{c4876e5f4f62da2742e0904b1a05e89d}
+      \strng{authorfullhash}{c1654d5bea4043024f59fe687bc5bd70}
+      \strng{authorfullhashraw}{c1654d5bea4043024f59fe687bc5bd70}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. Int. Conf. Learn. Represent}
+      \field{title}{Infrared solar module dataset for anomaly detection}
+      \field{volume}{3}
+      \field{year}{2020}
+    \endentry
+    \entry{raptormaps2020}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=eeb250dba29d39f52424d9a5f01add11}{%
+           family={Maps},
+           familyi={M\bibinitperiod},
+           given={Raptor},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{fullhash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{fullhashraw}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{bibnamehash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{authorbibnamehash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{authornamehash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{authorfullhash}{eeb250dba29d39f52424d9a5f01add11}
+      \strng{authorfullhashraw}{eeb250dba29d39f52424d9a5f01add11}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/RaptorMaps/InfraredSolarModules}}
+      \field{note}{Accessed: 2025-07-09}
+      \field{title}{Infrared Solar Modules Dataset}
+      \field{year}{2020}
+    \endentry
+    \entry{KO2017232}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=3f5143a2f0fd8f4abe494421a7caa37e}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Suk\bibnamedelima Whan},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=7689e9ba406fc9fd7af81f835ab99bec}{%
+           family={Ju},
+           familyi={J\bibinitperiod},
+           given={Young\bibnamedelima Chul},
+           giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=516624aab3b1d80445198d4c6dfba2a1}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Hye\bibnamedelima Mi},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4b95d9474fdab6e76c196bc1c83749a8}{%
+           family={So},
+           familyi={S\bibinitperiod},
+           given={Jung\bibnamedelima Hun},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=33c3daf86b5bf3b4750ac47c2424eee3}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Young-Seok},
+           giveni={Y\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=91b6f35f04620add969eef9055e8dde4}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Hyung-Jun},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=7d36d72ffbbef35cabbd89f39f1344f8}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Hee-eun},
+           giveni={H\bibinithyphendelim e\bibinitperiod}}}%
+        {{hash=a2d97be60673019708f28f9735500d8e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Soo-Hyun},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=3af8a058105e3dc5f6f34b9791390706}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Gi\bibnamedelima Hwan},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9918f6ae5b93d88b30fedf447e0e605f}
+      \strng{fullhash}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \strng{fullhashraw}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \strng{bibnamehash}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \strng{authorbibnamehash}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \strng{authornamehash}{9918f6ae5b93d88b30fedf447e0e605f}
+      \strng{authorfullhash}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \strng{authorfullhashraw}{9d4ec07ddad12e4aaca2c6ff3e86b347}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, characteristics of PV (photovoltaic) modules under partial shading or with a damaged bypass diode in the junction box were evaluated by comparing a theoretical model and empirical data. For the electrical analysis of the current-voltage (I-V) curve of each module, a PV module with one diode cell model was proposed, and the model closely matched the empirical results. The damaged bypass diode was replaced with an element of resistance in the simulation model. The calculation shows that the open circuit voltage of the PV module with a damaged bypass diode was slightly higher than that of a PV module under shading conditions while the PV system was operating. The I-V curve of each module obtained with the solar simulator was similar to the results of the simulation. From the results of field testing each PV module, when the PV system was operating in connection with the power grid, the internal temperature of the junction box connected to the shaded PV module was 5 °C higher than that of the PV module with the damaged bypass diode. Furthermore when the PV system was not operating, the internal temperature of the junction box in the PV module with the damaged bypass diode was extremely high. This condition caused a short-circuit and the surface temperature of the damaged bypass diode reached 219 °C. In this paper, we theoretically and empirically analyzed the characteristics of a shaded PV module and a module with a damaged bypass diode.}
+      \field{issn}{0360-5442}
+      \field{journaltitle}{Energy}
+      \field{title}{Electric and thermal characteristics of photovoltaic modules under partial shading and with a damaged bypass diode}
+      \field{volume}{128}
+      \field{year}{2017}
+      \field{pages}{232\bibrangedash 243}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.energy.2017.04.030
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544217305959
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360544217305959
+      \endverb
+      \keyw{Partial shading,Damaged bypass diode,Photovoltaic module,Open circuit voltage,Short circuit current}
+    \endentry
+    \entry{6924142}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=c3c2ad7ca71829509d952bbaaee6e44a}{%
+           family={Anand},
+           familyi={A\bibinitperiod},
+           given={V.P.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7bed8ec470b5e6fa1eac5a50ce30684f}{%
+           family={Priyan},
+           familyi={P\bibinitperiod},
+           given={O.B},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3c088cbdabe691c64955d49c7c3d619a}{%
+           family={Pesala},
+           familyi={P\bibinitperiod},
+           given={Bala},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{68105794a8b4ce1e1560128a15723e8c}
+      \strng{fullhash}{e2bc6a8a507df14bc508b6dda195bc62}
+      \strng{fullhashraw}{e2bc6a8a507df14bc508b6dda195bc62}
+      \strng{bibnamehash}{e2bc6a8a507df14bc508b6dda195bc62}
+      \strng{authorbibnamehash}{e2bc6a8a507df14bc508b6dda195bc62}
+      \strng{authornamehash}{68105794a8b4ce1e1560128a15723e8c}
+      \strng{authorfullhash}{e2bc6a8a507df14bc508b6dda195bc62}
+      \strng{authorfullhashraw}{e2bc6a8a507df14bc508b6dda195bc62}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE 2nd International Conference on Electrical Energy Systems (ICEES)}
+      \field{title}{Effect of shading losses on the performance of solar module system using MATLAB simulation}
+      \field{year}{2014}
+      \field{pages}{61\bibrangedash 64}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICEES.2014.6924142
+      \endverb
+      \keyw{Conferences;Decision support systems;Photovoltaic's;MPPT Algorithms;Solar System Efficiency;Matlab Simulations}
+    \endentry
+    \entry{5616821}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=06d48442ae9aeb26fe4dfa871ff311a3}{%
+           family={Deline},
+           familyi={D\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{fullhash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{fullhashraw}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{bibnamehash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{authorbibnamehash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{authornamehash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{authorfullhash}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \strng{authorfullhashraw}{06d48442ae9aeb26fe4dfa871ff311a3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2010 35th IEEE Photovoltaic Specialists Conference}
+      \field{title}{Partially shaded operation of multi-string photovoltaic systems}
+      \field{year}{2010}
+      \field{pages}{000394\bibrangedash 000399}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PVSC.2010.5616821
+      \endverb
+    \endentry
+    \entry{Maghami2016}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=7ac0761945f460a96f68e2ca36c97823}{%
+           family={Maghami},
+           familyi={M\bibinitperiod},
+           given={Mohammad\bibnamedelima Reza},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b358bcf1667a289e71341aa0e196c306}{%
+           family={Hizam},
+           familyi={H\bibinitperiod},
+           given={Hashim},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8313f676fb88e47d5bc58965bd6fcf4e}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Chandima},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6fca60ec1fc3a0581c304440f7d82d38}{%
+           family={Radzi},
+           familyi={R\bibinitperiod},
+           given={Mohd\bibnamedelima Amran},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7bf43a172b233bff62b66bfa2fb744ab}{%
+           family={Rezadad},
+           familyi={R\bibinitperiod},
+           given={Mohammad\bibnamedelima Ismael},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=34c568234c90f6e9002a7daf93b6ac35}{%
+           family={Hajighorbani},
+           familyi={H\bibinitperiod},
+           given={Shahrooz},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{5c5623445ea7faf4cd8f28a3fa9b451b}
+      \strng{fullhash}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \strng{fullhashraw}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \strng{bibnamehash}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \strng{authorbibnamehash}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \strng{authornamehash}{5c5623445ea7faf4cd8f28a3fa9b451b}
+      \strng{authorfullhash}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \strng{authorfullhashraw}{61d9d4a89cbf3971b2d227cfc57bda98}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The power output delivered from a photovoltaic module highly depends on the amount of irradiance, which reaches the solar cells. Many factors determine the ideal output or optimum yield in a photovoltaic module. However, the environment is one of the contributing parameters which directly affect the photovoltaic performance. The authors review and evaluate key contributions to the understanding, performance effects, and mitigation of power loss due to soiling on a solar panel. Electrical characteristics of PV (Voltage and current) are discussed with respect to shading due to soiling. Shading due to soiling is divided in two categories, namely, soft shading such as air pollution, and hard shading which occurs when a solid such as accumulated dust blocks the sunlight. The result shows that soft shading affects the current provided by the PV module, but the voltage remains the same. In hard shading, the performance of the PV module depends on whether some cells are shaded or all cells of the PV module are shaded. If some cells are shaded, then as long as the unshaded cells receive solar irradiance, there will be some output although there will be a decrease in the voltage output of the PV module. This study also present a few cleaning method to prevent from dust accumulation on the surface of solar arrays.}
+      \field{issn}{1364-0321}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{month}{6}
+      \field{title}{Power loss due to soiling on solar panel: A review}
+      \field{volume}{59}
+      \field{year}{2016}
+      \field{pages}{1307\bibrangedash 1316}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/J.RSER.2016.01.044
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032116000745
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1364032116000745
+      \endverb
+      \keyw{Environment,Losses,Performance loss,Photovoltaic,Power output,Shadow}
+    \endentry
+    \entry{zheng2018machine}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=e0e78055d2d1a4cd7738367c4c04bd43}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28a4d2ef600045704cc44196908f8dc1}{%
+           family={Casari},
+           familyi={C\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{94adb7f30b319c162723cc196343597c}
+      \strng{fullhash}{94adb7f30b319c162723cc196343597c}
+      \strng{fullhashraw}{94adb7f30b319c162723cc196343597c}
+      \strng{bibnamehash}{94adb7f30b319c162723cc196343597c}
+      \strng{authorbibnamehash}{94adb7f30b319c162723cc196343597c}
+      \strng{authornamehash}{94adb7f30b319c162723cc196343597c}
+      \strng{authorfullhash}{94adb7f30b319c162723cc196343597c}
+      \strng{authorfullhashraw}{94adb7f30b319c162723cc196343597c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2018 IEEE International Conference on Big Data (Big Data)}
+      \field{title}{Machine learning-based data preprocessing techniques for enhancing classification performance}
+      \field{year}{2018}
+      \field{pages}{3739\bibrangedash 3748}
+      \range{pages}{10}
+    \endentry
+    \entry{eastgate2024power}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=632eb370001e432619279ab78da89a9b}{%
+           family={Software},
+           familyi={S\bibinitperiod},
+           given={Eastgate},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{632eb370001e432619279ab78da89a9b}
+      \strng{fullhash}{632eb370001e432619279ab78da89a9b}
+      \strng{fullhashraw}{632eb370001e432619279ab78da89a9b}
+      \strng{bibnamehash}{632eb370001e432619279ab78da89a9b}
+      \strng{authorbibnamehash}{632eb370001e432619279ab78da89a9b}
+      \strng{authornamehash}{632eb370001e432619279ab78da89a9b}
+      \strng{authorfullhash}{632eb370001e432619279ab78da89a9b}
+      \strng{authorfullhashraw}{632eb370001e432619279ab78da89a9b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{The Power of Image Processing: Techniques, Applications, and Future Trends}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://medium.com/@eastgate/the-power-of-image-processing-techniques-applications-and-future-trends-9a3f455e2554
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@eastgate/the-power-of-image-processing-techniques-applications-and-future-trends-9a3f455e2554
+      \endverb
+    \endentry
+    \entry{shi2021unsharp}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=f517de31bedf0ea1708751ec73567896}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Zenglin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c5733fed2944ec106d33b7c848409785}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yunlu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0af7b46960d484276a09bb92a3815b77}{%
+           family={Gavves},
+           familyi={G\bibinitperiod},
+           given={Efstratios},
+           giveni={E\bibinitperiod}}}%
+        {{hash=58fd252418f1c4bc80c826c7f0805720}{%
+           family={Mettes},
+           familyi={M\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e8b0cc59b5c1399d4063571867d02602}{%
+           family={Snoek},
+           familyi={S\bibinitperiod},
+           given={Cees\bibnamedelima G},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c501ffd5ffdf52c1868233b0a2f6749}
+      \strng{fullhash}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \strng{fullhashraw}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \strng{bibnamehash}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \strng{authorbibnamehash}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \strng{authornamehash}{7c501ffd5ffdf52c1868233b0a2f6749}
+      \strng{authorfullhash}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \strng{authorfullhashraw}{8d93d92cd03ecaebd7a9a42ac59a73bf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv}
+      \field{title}{Unsharp Mask Guided Filtering}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1109/TIP.2021.3106812
+      \endverb
+    \endentry
+    \entry{Lin2016}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=a08d622e6b206ad3bbe55c3cae653048}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={S.\bibnamedelimi C.F.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9e7ce47794b5c09b0309bb64cdd0c1a0}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={C.\bibnamedelimi Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=ffd9d1c4582575b42debf847307078ff}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6a1aaf64d67d7fb2e40688133768affe}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=96aa6d42af6fc9d5559aa98c6aea7cc8}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e3930f2d532c9cca03ff3422a1d72836}{%
+           family={Kwok},
+           familyi={K\bibinitperiod},
+           given={Ngaiming},
+           giveni={N\bibinitperiod}}}%
+        {{hash=728aab39f6ddd38536a9bec559701622}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Haiyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f280898bf7ec3ae122e78c242a925562}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Ying\bibnamedelima Hao},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=cbb6da9b3aecc19dc3a0d2a4200e3d96}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Tonghai},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Urban \& Fischer}%
+      }
+      \strng{namehash}{13c3367f3590b7521f56b149fecc8ced}
+      \strng{fullhash}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \strng{fullhashraw}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \strng{bibnamehash}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \strng{authorbibnamehash}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \strng{authornamehash}{13c3367f3590b7521f56b149fecc8ced}
+      \strng{authorfullhash}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \strng{authorfullhashraw}{1ab4b5c65daaa18a44697293bb12c2fd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Enhancement of image quality is a fundamental process for a wide range of vision-based applications. Images captured under unfavorable environments are often degraded in information content, sharpness and colorfulness. In the attempts to improve an image, the unsharp masking filter is an attractive candidate for its computational efficiency. However, the filter is vulnerable to the over-range problem where pixel magnitudes are driven beyond permissible ranges. This drawback is particularly noticeable if a non-adaptive procedure is used in the enhancement. Hence, an adaptive gain adjustment method is proposed here aiming at minimizing the number of over-range pixels while maximizing the image sharpness and information content. In this method, colorfulness is improved via color channel stretching and contrast is enhanced by edge augmentation. Specifically, a hyperbolic-tangent function, whose scale is dependent on the original image intensity and detected edges, is constructed to adjust the gain in sharpness enhancement. A collection of natural images captured under poor illumination conditions are used in the test against conventional and mask-based image enhancement approaches. Results have demonstrated that the proposed method outperforms the others with regard to colorfulness, information content, and sharpness.}
+      \field{issn}{0030-4026}
+      \field{issue}{1}
+      \field{journaltitle}{Optik}
+      \field{month}{1}
+      \field{title}{Intensity and edge based adaptive unsharp masking filter for color image enhancement}
+      \field{volume}{127}
+      \field{year}{2016}
+      \field{pages}{407\bibrangedash 414}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/J.IJLEO.2015.08.046
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0030402615008074
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0030402615008074
+      \endverb
+      \keyw{Adaptive gain adjustment,Image quality enhancement,Unsharp masking filter}
+    \endentry
+    \entry{Ramadan2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=14c52413223760c2b6ed3a6cc3c75a0f}{%
+           family={Ramadan},
+           familyi={R\bibinitperiod},
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bb349709091fe34d987d5accb2b1202a}{%
+           family={Moawad},
+           familyi={M\bibinitperiod},
+           given={Nada\bibnamedelima M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7917f9f3afc631a8fb60840678d8f626}{%
+           family={Abouzalm},
+           familyi={A\bibinitperiod},
+           given={Belal\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=39d70c0d0da93ff4347a52fa8f31cf22}{%
+           family={Sakr},
+           familyi={S\bibinitperiod},
+           given={Ali\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=52eb1354b688eb7e195c266bc6459923}{%
+           family={Abouzaid},
+           familyi={A\bibinitperiod},
+           given={Wessam\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=d9b445574b7dba5fe362ee304d1ed711}{%
+           family={El-Banby},
+           familyi={E\bibinithyphendelim B\bibinitperiod},
+           given={Ghada\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{dc221037fdb12d18ece0992d641567e1}
+      \strng{fullhash}{2dc85ed976076475240bcce888e2f992}
+      \strng{fullhashraw}{2dc85ed976076475240bcce888e2f992}
+      \strng{bibnamehash}{2dc85ed976076475240bcce888e2f992}
+      \strng{authorbibnamehash}{2dc85ed976076475240bcce888e2f992}
+      \strng{authornamehash}{dc221037fdb12d18ece0992d641567e1}
+      \strng{authorfullhash}{2dc85ed976076475240bcce888e2f992}
+      \strng{authorfullhashraw}{2dc85ed976076475240bcce888e2f992}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Solar energy from photovoltaic systems (PV) ranks as the third greatest renewable electricity generation resource. This study introduces an innovative deep learning model utilizing a Vision Transformer (ViT) artificial neural network for the automatic detection of faults in infrared thermography images of PV modules. The proposed framework encompasses three primary stages: image preprocessing, data augmentation techniques, and implementing a Vision Transformer deep learning model. The results show 98.23\% accuracy for binary classification and 96.19\% accuracy for eleven PV failure classes.}
+      \field{issn}{0196-8904}
+      \field{journaltitle}{Energy Conversion and Management}
+      \field{month}{8}
+      \field{title}{An innovative transformer neural network for fault detection and classification for photovoltaic modules}
+      \field{volume}{314}
+      \field{year}{2024}
+      \field{pages}{118718}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.ENCONMAN.2024.118718
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890424006599
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0196890424006599
+      \endverb
+      \keyw{Artificial Intelligence,Fault Detection System,Photovoltaic (PV) systems,Thermography,Vision Transformer}
+    \endentry
+    \entry{8628742}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=d4b02d07e3f367eede1cf2675de2193a}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2613d476038cbac3efc37eb4c3f67156}{%
+           family={Nitschke},
+           familyi={N\bibinitperiod},
+           given={Geoff},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{fullhash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{fullhashraw}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{bibnamehash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{authorbibnamehash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{authornamehash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{authorfullhash}{4aa5334e0df79eba939131f75dec8fae}
+      \strng{authorfullhashraw}{4aa5334e0df79eba939131f75dec8fae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE Symposium Series on Computational Intelligence (SSCI)}
+      \field{title}{Improving Deep Learning with Generic Data Augmentation}
+      \field{year}{2018}
+      \field{pages}{1542\bibrangedash 1547}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SSCI.2018.8628742
+      \endverb
+      \keyw{Training;Task analysis;Image color analysis;Training data;Principal component analysis;Computer architecture;Image edge detection}
+    \endentry
+    \entry{madhugiri2022improving}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=170025be2fc311de9e9564d02eee12be}{%
+           family={Madhugiri},
+           familyi={M\bibinitperiod},
+           given={Devashree},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{170025be2fc311de9e9564d02eee12be}
+      \strng{fullhash}{170025be2fc311de9e9564d02eee12be}
+      \strng{fullhashraw}{170025be2fc311de9e9564d02eee12be}
+      \strng{bibnamehash}{170025be2fc311de9e9564d02eee12be}
+      \strng{authorbibnamehash}{170025be2fc311de9e9564d02eee12be}
+      \strng{authornamehash}{170025be2fc311de9e9564d02eee12be}
+      \strng{authorfullhash}{170025be2fc311de9e9564d02eee12be}
+      \strng{authorfullhashraw}{170025be2fc311de9e9564d02eee12be}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{note}{ShortHills Tech, Medium}
+      \field{title}{Improving Deep Learning Models with Data Augmentation}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://medium.com/@ShortHills_Tech/improving-deep-learning-models-with-data-augmentation-d4e3d0a9301b
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@ShortHills_Tech/improving-deep-learning-models-with-data-augmentation-d4e3d0a9301b
+      \endverb
+    \endentry
+    \entry{geeksforgeeks_zscore_2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f1e069787ece74531d112559945c6871}{%
+           family={GeeksforGeeks},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhash}{f1e069787ece74531d112559945c6871}
+      \strng{fullhashraw}{f1e069787ece74531d112559945c6871}
+      \strng{bibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorbibnamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authornamehash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhash}{f1e069787ece74531d112559945c6871}
+      \strng{authorfullhashraw}{f1e069787ece74531d112559945c6871}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-07-14}
+      \field{title}{Z-Score Normalization: Definition and Examples}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/data-analysis/z-score-normalization-definition-and-examples/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/data-analysis/z-score-normalization-definition-and-examples/
+      \endverb
+    \endentry
+    \entry{pytorch}{misc}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=56bf0b340039cf8594436a624ff548a9}{%
+           family={Paszke},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ba5062e5919c814aceec188d54c01f2}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e5dfae4582081d649e3a0d5342050016}{%
+           family={Massa},
+           familyi={M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b5815e1692fa2d0c1f44eecf509bd7c4}{%
+           family={Lerer},
+           familyi={L\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b75383e6b48c8360c7a60031424c85cf}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f897ed422c34d95af2e22778dfc2607e}{%
+           family={Chanan},
+           familyi={C\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=046269e070246feb6f394141db80ed87}{%
+           family={Killeen},
+           familyi={K\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c40352c194e60a3ef458ee7e8685afb5}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zeming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6e45f49ec618e619efad90c8e8a61f0c}{%
+           family={Gimelshein},
+           familyi={G\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f65a80959d520337ae99a0798515036c}{%
+           family={Antiga},
+           familyi={A\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{724e74fc18651eb78eb82fbcd1d9dfb1}
+      \strng{fullhash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{fullhashraw}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{bibnamehash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{authorbibnamehash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{authornamehash}{724e74fc18651eb78eb82fbcd1d9dfb1}
+      \strng{authorfullhash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{authorfullhashraw}{48a7dff01ec9361a039ff178d435ae04}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://pytorch.org/}}
+      \field{note}{Version 2.7.1, accessed July 2025}
+      \field{title}{{PyTorch}: An Imperative Style, High-Performance Deep Learning Library}
+      \field{year}{2019}
+    \endentry
+    \entry{timm}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=57500e512348bba88f1e664b289c7a79}{%
+           family={Wightman},
+           familyi={W\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{57500e512348bba88f1e664b289c7a79}
+      \strng{fullhash}{57500e512348bba88f1e664b289c7a79}
+      \strng{fullhashraw}{57500e512348bba88f1e664b289c7a79}
+      \strng{bibnamehash}{57500e512348bba88f1e664b289c7a79}
+      \strng{authorbibnamehash}{57500e512348bba88f1e664b289c7a79}
+      \strng{authornamehash}{57500e512348bba88f1e664b289c7a79}
+      \strng{authorfullhash}{57500e512348bba88f1e664b289c7a79}
+      \strng{authorfullhashraw}{57500e512348bba88f1e664b289c7a79}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/huggingface/pytorch-image-models}}
+      \field{note}{Accessed July 2025}
+      \field{title}{{PyTorch Image Models (TIMM)}}
+      \field{year}{2019}
+    \endentry
+    \entry{clark2015pillow}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=10feb2c6e7d7e70b8fb693e87731ccf7}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=96858cb143562346b7f065e32c403f30}{%
+           family={Contributors},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{fullhash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{fullhashraw}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{bibnamehash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{authorbibnamehash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{authornamehash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{authorfullhash}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \strng{authorfullhashraw}{ea89bf02a6b687e1b93cd8d23d6d6833}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://python-pillow.org/}}
+      \field{note}{Version latest, Accessed: 2025-07-15}
+      \field{title}{Pillow (PIL Fork)}
+      \field{year}{2015}
+    \endentry
+    \entry{harris2020array}{misc}{}{}
+      \name{author}{25}{}{%
+        {{hash=db2b4761cc46be347b418e68660c9554}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Charles\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b053969d2c6a9ec8689980fb6463cd56}{%
+           family={Millman},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi Jarrod},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9a5a65a789013a8d1e8035ec28df9b6e}{%
+           family={Walt},
+           familyi={W\bibinitperiod},
+           given={Stéfan\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=646fbfe08374cc41c2f9bd971d8c4725}{%
+           family={Gommers},
+           familyi={G\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=18703a2bb6a62484483c193a212da2f8}{%
+           family={Virtanen},
+           familyi={V\bibinitperiod},
+           given={Pauli},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4321feefe3d5715c6fe12639d2a1f7f1}{%
+           family={Wieser},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e8d1b0c2bff88b6bf54e2e934e2853f6}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=265437a4424f0b845118651d7d04ab93}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e4d23819637a961e0e598e1c82a8f10d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Nathaniel\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9ad1d38817acd2f00cb7f324ec7d37ea}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8ae844f84614690134ff5d8252fdc430}{%
+           family={Picus},
+           familyi={P\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4a22828b76006f42d747b699d2ef5167}{%
+           family={Hoyer},
+           familyi={H\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=626cc151613864abeb653c0d8172d98c}{%
+           family={Brett},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a989405517bbf67ae7b16be1d03c0081}{%
+           family={Haldane},
+           familyi={H\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9517b38a3050d34c03ac479ee122f64a}{%
+           family={Río},
+           familyi={R\bibinitperiod},
+           given={Jaime\bibnamedelima Fernández},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=76256cb9e4c31e0a4744b1b49a6199f4}{%
+           family={Wiebe},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3d6efaaa3d9682e20787eb06ff70a3d7}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Pearu},
+           giveni={P\bibinitperiod}}}%
+        {{hash=aac4486f60accb8b7db22ef300423e11}{%
+           family={Gérard-Marchant},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=22fcbc93c38819e962968aad3e3cba7f}{%
+           family={Sheppard},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fbb0c40f5d70be8ce47ce9daafdf5749}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4c7e4c94b846fa41e2fc0a88e0dc656d}{%
+           family={Weckesser},
+           familyi={W\bibinitperiod},
+           given={Warren},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c588b2e35e75bba896fc5677afb52fa9}{%
+           family={Abbasi},
+           familyi={A\bibinitperiod},
+           given={Hameer},
+           giveni={H\bibinitperiod}}}%
+        {{hash=52e2684c111b194e1f15fa06b0ce4544}{%
+           family={Gohlke},
+           familyi={G\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d500f4849030f34359cdb3e1513acf83}{%
+           family={Oliphant},
+           familyi={O\bibinitperiod},
+           given={Travis\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{fullhash}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \strng{fullhashraw}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \strng{bibnamehash}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \strng{authorbibnamehash}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \strng{authornamehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{authorfullhash}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \strng{authorfullhashraw}{e6f1aaac19a5b1de1a0c52931bcc4544}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{note}{Accessed: 2025-07-15}
+      \field{number}{7825}
+      \field{title}{Array programming with NumPy}
+      \field{volume}{585}
+      \field{year}{2020}
+      \field{pages}{357\bibrangedash 362}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-020-2649-2
+      \endverb
+      \verb{urlraw}
+      \verb https://numpy.org/
+      \endverb
+      \verb{url}
+      \verb https://numpy.org/
+      \endverb
+    \endentry
+    \entry{pedregosa2011scikit}{misc}{}{}
+      \name{author}{16}{}{%
+        {{hash=bab4e5caee2d67831e464ce575022b37}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cfa3239dded54488f9a82a5718d5b927}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={Gaël},
+           giveni={G\bibinitperiod}}}%
+        {{hash=12ebe424e1c87de156c57e8fa7683f46}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=504ea1986689f1047a6f0beda2cb3822}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0f3fc06fb9fcbb01b9cc0985eaf0a71c}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+        {{hash=721be0317527f44db425f7a97dcab15e}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=d3b6c8582cea4e8b6576137b6a72cadc}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86e647e5c801f3ce733927f75f029463}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=89d698773eaf2fae761ff0008031c7be}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b255e99d411f28c789a231829f765c64}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a08a00cf90823600b731a138afc28949}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={Jake},
+           giveni={J\bibinitperiod}}}%
+        {{hash=afb9a37bec11b531f1f0f33793a7f1fe}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=281ac3097ec8447c2d26e9f3cfde6082}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=23403cde972dddbdb48efe2bcc07dc3c}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={Matthieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3b33c2c2b909b62c3cc2650ee3f2cd93}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={Edouard},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{fullhash}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \strng{fullhashraw}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \strng{bibnamehash}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \strng{authorbibnamehash}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \strng{authornamehash}{9ec95d747bac3417f92265a9a44f8bb4}
+      \strng{authorfullhash}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \strng{authorfullhashraw}{4489b0fbd174a083a0c9a3f4c7b4b599}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{note}{Accessed: 2025-07-15}
+      \field{title}{Scikit-learn: Machine Learning in Python}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb https://scikit-learn.org/
+      \endverb
+      \verb{url}
+      \verb https://scikit-learn.org/
+      \endverb
+    \endentry
+    \entry{casper2016tqdm}{misc}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{hash=e38c8b3cb57e5e0fc285d56850550121}{%
+           family={Yorav-Raphael},
+           familyi={Y\bibinithyphendelim R\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=848c87f07a1e2d19443e40a46345cd9c}{%
+           family={Gandor},
+           familyi={G\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+        {{hash=be90f8e098f144bc762bc2d499337be6}{%
+           family={Costa-Luis},
+           familyi={C\bibinithyphendelim L\bibinitperiod},
+           given={Casper},
+           giveni={C\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{473065fcc440dfe773b3e4bb25afcc00}
+      \strng{fullhash}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \strng{fullhashraw}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \strng{bibnamehash}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \strng{authorbibnamehash}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \strng{authornamehash}{473065fcc440dfe773b3e4bb25afcc00}
+      \strng{authorfullhash}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \strng{authorfullhashraw}{40f8d22d54bace8807a364b9d6d8a2e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://tqdm.github.io/}}
+      \field{note}{Version latest, Accessed: 2025-07-15}
+      \field{title}{tqdm: A Fast, Extensible Progress Bar for Python and CLI}
+      \field{year}{2016}
+    \endentry
+    \entry{hunter2007matplotlib}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2f53dcc6bb05a06b8ad94176f80fe26}{%
+           family={Hunter},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{fullhashraw}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{bibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorbibnamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authornamehash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhash}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \strng{authorfullhashraw}{a2f53dcc6bb05a06b8ad94176f80fe26}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science \& Engineering}
+      \field{note}{Accessed: 2025-07-15}
+      \field{number}{3}
+      \field{title}{Matplotlib: A 2D Graphics Environment}
+      \field{volume}{9}
+      \field{year}{2007}
+      \field{pages}{90\bibrangedash 95}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MCSE.2007.55
+      \endverb
+      \verb{urlraw}
+      \verb https://matplotlib.org/
+      \endverb
+      \verb{url}
+      \verb https://matplotlib.org/
+      \endverb
+    \endentry
+    \entry{plotly2015plotly}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=58d97f81a838b6f24e70acfc881a04d3}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Plotly\bibnamedelima Technologies},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{fullhash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{fullhashraw}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{bibnamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authorbibnamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authornamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authorfullhash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authorfullhashraw}{58d97f81a838b6f24e70acfc881a04d3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://plotly.com/python/}}
+      \field{note}{Accessed: 2025-07-15}
+      \field{title}{Collaborative data science}
+      \field{year}{2015}
+    \endentry
+    \entry{ray2025relu}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7248d1e1541e9a0378c72535b2b4fd44}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Jaideep},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{fullhash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{fullhashraw}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{bibnamehash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{authorbibnamehash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{authornamehash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{authorfullhash}{7248d1e1541e9a0378c72535b2b4fd44}
+      \strng{authorfullhashraw}{7248d1e1541e9a0378c72535b2b4fd44}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Accessed: 2025-07-13}
+      \field{title}{ReLU vs GeLU}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://medium.com/better-ml/relu-vs-gelu-d322422f5147
+      \endverb
+      \verb{url}
+      \verb https://medium.com/better-ml/relu-vs-gelu-d322422f5147
+      \endverb
+    \endentry
+    \entry{guo2025cross}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=cbbe0aee45b05ee2e216204167adfdac}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=951a341f94921f94221725dec6737ee1}{%
+           family={Andriopoulos},
+           familyi={A\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f80f5e3ec060e08867b8314f35814704}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Zifan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=1221433d1c849e0df9dda85ac5e2e1dc}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={Shuyang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=54b0f7c98ddfb3a93dc48dbfbffa90a8}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=e578fddb1d7974001b0f866a9e3e13f4}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0687459f77fe9891f696155761551555}
+      \strng{fullhash}{58e10fc99e939058673a26d9a59220ec}
+      \strng{fullhashraw}{58e10fc99e939058673a26d9a59220ec}
+      \strng{bibnamehash}{58e10fc99e939058673a26d9a59220ec}
+      \strng{authorbibnamehash}{58e10fc99e939058673a26d9a59220ec}
+      \strng{authornamehash}{0687459f77fe9891f696155761551555}
+      \strng{authorfullhash}{58e10fc99e939058673a26d9a59220ec}
+      \strng{authorfullhashraw}{58e10fc99e939058673a26d9a59220ec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.LG}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Transactions on Machine Learning Research}
+      \field{title}{Cross Entropy versus Label Smoothing: A Neural Collapse Perspective}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2402.03979
+      \endverb
+    \endentry
+    \entry{pan2010survey}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=224c02b5d289fefd08d4f9f1a83c5d0c}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Sinno\bibnamedelima Jialin},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=55242d2a60270145342841e4d4238da0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{fullhash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{fullhashraw}{770fc1d95710074c9506ab4f7d386573}
+      \strng{bibnamehash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{authorbibnamehash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{authornamehash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{authorfullhash}{770fc1d95710074c9506ab4f7d386573}
+      \strng{authorfullhashraw}{770fc1d95710074c9506ab4f7d386573}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Knowledge and Data Engineering}
+      \field{number}{10}
+      \field{title}{A Survey on Transfer Learning}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{1345\bibrangedash 1359}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TKDE.2009.191
+      \endverb
+    \endentry
+    \entry{yosinski2014transferable}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=9f400712248e594ce887c5cd06d9767b}{%
+           family={Yosinski},
+           familyi={Y\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ec864655608cdb84e55422b0797b6419}{%
+           family={Clune},
+           familyi={C\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=475bdf26aafc86ddd3f62a8ff9267f8a}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Hod},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{73b0eb667b42d956848df75c7dfb6b12}
+      \strng{fullhash}{1b793354c73b5eaf9d3e535540209ef1}
+      \strng{fullhashraw}{1b793354c73b5eaf9d3e535540209ef1}
+      \strng{bibnamehash}{1b793354c73b5eaf9d3e535540209ef1}
+      \strng{authorbibnamehash}{1b793354c73b5eaf9d3e535540209ef1}
+      \strng{authornamehash}{73b0eb667b42d956848df75c7dfb6b12}
+      \strng{authorfullhash}{1b793354c73b5eaf9d3e535540209ef1}
+      \strng{authorfullhashraw}{1b793354c73b5eaf9d3e535540209ef1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{How transferable are features in deep neural networks?}
+      \field{year}{2014}
+      \field{pages}{3320\bibrangedash 3328}
+      \range{pages}{9}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,198 @@
+\documentclass[a4paper, 12pt, openany]{book}
+
+% ===================== PACKAGES =====================
+
+% Basic text and encoding
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage{rotating}
+\usepackage[lmargin=1.5in, rmargin=1in, tmargin=1in, bmargin=1in]{geometry}
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{4}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{float}
+\usepackage{colortbl}  % for table cell coloring
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage[Bjarne]{fncychap}
+\usepackage{svg}
+\usepackage{xcolor}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{makecell}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{wrapfig} % for wrapping figures
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{wrapfig}    
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{amsmath, amssymb, mathtools, bm, siunitx}
+\usepackage{tikz}
+\usetikzlibrary{positioning, arrows.meta, shapes, fit, calc}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\usepackage[
+    style=ieee,
+    backend=biber,
+    sorting=none,
+    maxbibnames=99,
+    doi=true,
+    isbn=false,
+    url=true,
+    giveninits=true,
+    abbreviate=true
+]{biblatex}
+
+\addbibresource{bibliography.bib}
+% Fix for Unicode character U+202F (narrow no-break space)
+\DeclareUnicodeCharacter{202F}{\,}
+
+
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{cleveref}
+\usepackage{nameref}
+
+\definecolor{ntnu-purple}{HTML}{4F2B80}
+\definecolor{ntnu-gray}{HTML}{A7A8AA}
+\definecolor{ntnu-yellow}{HTML}{F2A900}
+
+\usepackage[absolute, overlay]{textpos}
+
+\graphicspath{{Figures/}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black,
+    pdfauthor={Zeshan Mubshir},
+    pdftitle={Autonomous Monitoring of Floating Solar PVs Anomalies using Deep Learning Methods},
+    pdfkeywords={Solar PV, Anomaly Detection, Deep Learning},
+    pdfsubject={Master's Thesis}
+}
+
+\newcommand{\myemptypage}{ \null
+\thispagestyle{empty}
+\addtocounter{page}{-1}
+\newpage
+}
+
+\let\oldtabular\tabular
+\let\endoldtabular\endtabular
+\renewenvironment{tabular}{\small\oldtabular}{\endoldtabular}
+
+\begin{document}
+
+% ===================== FRONT MATTER =====================
+% Abstract (English Abstract)
+\chapter*{Abstract}
+\label{ch:abstract}
+\pagenumbering{roman} %introductory pages should be roman
+\setcounter{page}{1}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Abstract}
+\input{Chapters/00Abstract}
+
+% Sammendrag (Norwegian Abstract)
+\chapter*{Sammendrag}
+\label{ch:sammendrag}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Sammendrag}
+\input{Chapters/01Sammendrag}
+
+% Preface (Introduction to the thesis)
+\chapter*{Preface}
+\label{ch:preface}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Preface}
+\input{Chapters/03Preface}
+
+% Table of Contents
+\tableofcontents
+\addcontentsline{toc}{chapter}{\protect\numberline{}Contents}
+
+% List of Figures
+\addcontentsline{toc}{chapter}{\protect\numberline{}\listfigurename}
+\listoffigures
+\addcontentsline{toc}{chapter}{\protect\numberline{}\listtablename}
+\listoftables
+
+% Abbreviations
+\chapter*{Abbreviations}
+\label{ch:abbreviations}
+\addcontentsline{toc}{chapter}{\protect\numberline{}Abbreviations}
+\input{Chapters/02Abbreviations}
+\newpage
+
+\myemptypage % Empty page after abbreviations
+
+% ===================== MAIN MATTER =====================
+% Customize the layout of the main content of your thesis
+\pagestyle{fancy} %set customized page style for header
+\fancyhf{} %clear header and footer fields
+\renewcommand{\headrulewidth}{0pt} %set to no rule
+\fancyhead[LE, RO]{\thepage} %set the page number at left for even, right for odd pages
+\fancyhead[RE, LO]{\leftmark} %set the chapter name at right for even, left for odd pages
+\setlength{\headheight}{14.49998pt} %set the header height
+
+\mainmatter
+\pagenumbering{arabic}
+
+% Chapters
+\chapter{Introduction}
+\label{ch:introduction}
+\input{Chapters/Ch1Introduction}
+\cleardoublepage
+
+\chapter{Theory and Literature Review}
+\label{ch:theory_and_literature_review}
+\input{Chapters/Ch2TheoryandLiteratureReview}
+\cleardoublepage
+
+\chapter{Methodology}
+\label{ch:methodology}
+\input{Chapters/Ch3Methodology}
+\cleardoublepage
+
+\chapter{Results and Discussion}
+\label{ch:results_and_discussion}
+\input{Chapters/Ch4ResultsandDiscussion}
+\cleardoublepage
+
+\chapter{Conclusion and Future Work}
+\label{ch:conclusion_and_future_work}
+\input{Chapters/Ch5ConclusionandFutureWork}
+\cleardoublepage
+
+% ===================== BACK MATTER =====================
+\backmatter
+
+% Bibliography
+\addcontentsline{toc}{chapter}{\protect\numberline{}References}
+\printbibliography[title={References}]
+\cleardoublepage
+
+% Appendices
+\chapter*{\LARGE \textbf{Appendices}}
+\label{ch:appendices}
+\fancyhf{} %clear the header, it should be empty for the appendices
+\renewcommand{\headrulewidth}{0pt} %no rule
+\fancyfoot[C]{\thepage} %set the page numbers in the center of the footer instead
+\addcontentsline{toc}{chapter}{\protect\numberline{}Appendices}
+\appendix
+\input{Chapters/Ch6Appendix}
+
+\end{document}

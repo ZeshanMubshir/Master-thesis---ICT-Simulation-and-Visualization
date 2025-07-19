@@ -1,0 +1,36 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Elements of a PV system}}{5}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Land-based and Floating PV systems}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Real world imagery for PV plant anomalies}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Thermal Patterns of Common PV Anomalies}}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces UAV-Based Thermal Inspection of PV Systems}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Hotspot ($\Delta T$)}}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Relationship between AI, ML, and DL}}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Computer vision tasks in PV Plant inspection}}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces ViT Architecture Overview}}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Self-Attention}}{19}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Architecture of the DeiT (Data-efficient Image Transformer)}}{20}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces ConvNeXt-Tiny Architecture Overview}}{23}{figure.caption.20}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Class distribution in the IR dataset.}}{26}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Representative samples from each anomaly class in the IR dataset (Grad-CAM Visualization)}}{27}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Effect of image filter and data augmentation on a Sample of Hot-Spot Multi-Anomaly image.}}{30}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Complete Data Preprocessing and Augmentation Pipeline}}{33}{figure.caption.27}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Categorical loss and accuracy for 2-Class outputs in the training and validation datasets.}}{41}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Confusion Matrix, 2-Class Classification}}{42}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces ROC curves for 2-class classification outputs}}{43}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Categorical loss and accuracy for 11-Class outputs in the training and validation datasets.}}{44}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Confusion Matrix, ViT-B32 (a) Raw Counts (b) Normalized}}{45}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Confusion Matrix, DeiT-B16 (a) Raw Counts (b) Normalized}}{45}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Confusion Matrix, ConvNeXt-Tiny (a) Raw Counts (b) Normalized}}{45}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces ROC curves for 11-class classification outputs}}{46}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Categorical loss and accuracy for 12-Class outputs in the training and validation datasets.}}{47}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Confusion Matrix, ViT-B32 (a) Raw Counts (b) Normalized}}{48}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Confusion Matrix, DeiT-B16 (a) Raw Counts (b) Normalized}}{48}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Confusion Matrix, ConvNeXt-Tiny (a) Raw Counts (b) Normalized}}{48}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces ROC curves for 12-class classification outputs}}{49}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Loss and Accuracy Curves for Failed UltraEfficient DeiT-B16 Training (11-Class Classification)}}{55}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Confusion Matrix for Failed UltraEfficient DeiT-B16 (11-Class Classification)}}{56}{figure.caption.58}%
+\addvspace {10\p@ }

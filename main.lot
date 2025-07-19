@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Power Factor Estimates for PV Anomalies}}{14}{table.caption.14}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces IR Dataset Description with Anomalies Patterns}}{26}{table.caption.22}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Five random sample images from each class in the processed dataset}}{28}{table.caption.24}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Summary of Pre-processing and Data Augmentation Steps}}{32}{table.caption.26}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Training Hyperparameters for the Models}}{34}{table.caption.28}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Model Architecture Specifications}}{38}{table.caption.29}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces ConvNeXt-Tiny Model Architecture Specifications}}{38}{table.caption.30}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces ViT-B32 Model Architecture Specifications}}{38}{table.caption.31}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces DeiT-B16 Model Architecture Specifications}}{39}{table.caption.32}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Classification Results and Detailed Metrics for 2-Class Classification (ViT-B32)}}{50}{table.caption.46}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Classification Results and Detailed Metrics for 2-Class Classification (DeiT-B16)}}{50}{table.caption.47}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Classification Results and Detailed Metrics for 2-Class Classification (ConvNeXt-Tiny)}}{50}{table.caption.48}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Classification Results and Detailed Metrics for 11-Class Classification (ViT-B32)}}{51}{table.caption.49}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Classification Results and Detailed Metrics for 11-Class Classification (DeiT-B16)}}{51}{table.caption.50}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Classification Results and Detailed Metrics for 11-Class Classification (ConvNeXt-Tiny)}}{52}{table.caption.51}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Final Model Comparison for 11-Class Classification}}{52}{table.caption.52}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Detailed Classification Report and Performance Summary for 12-Class Classification (ViT-B32)}}{53}{table.caption.53}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Detailed Classification Report and Performance Summary for 12-Class Classification (DeiT-B16)}}{53}{table.caption.54}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Detailed Classification Report and Performance Summary for 12-Class Classification (ConvNeXt-Tiny)}}{54}{table.caption.55}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Final Model Comparison for 12-Class Classification}}{54}{table.caption.56}%
+\addvspace {10\p@ }
